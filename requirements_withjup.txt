@@ -1,0 +1,8 @@
+-e git+https://github.optum.com/analytic-project-templates/ml-tools.git@v0.3#egg=log
+connexion[swagger-ui]
+gunicorn
+packaging
+transformers
+spacy
+scispacy
+jupyter
